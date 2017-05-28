@@ -1,0 +1,3 @@
+lib/perf-counter.lo: lib/perf-counter.c config.h
+
+config.h:
